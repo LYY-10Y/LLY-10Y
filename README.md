@@ -37,10 +37,3 @@
 </p>
 
 **Android**：Kotlin · Material 3 · USB CDC · BLE · MicroPython　**Systems**：Linux · 驱动与固件　**Collaboration**：GitHub Issues · MIT License
-
-## 🐍 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/10Y-LYY/10Y-LYY/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/10Y-LYY/10Y-LYY/output/github-snake.svg" alt="Contribution snake" />
-</picture>
